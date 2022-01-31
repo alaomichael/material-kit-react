@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "."
+    "baseUrl": "https://horsebetting.netlify.app"
   },
   "include": [
     "src"
