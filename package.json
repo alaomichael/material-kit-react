@@ -4,7 +4,7 @@
   "licence": "MIT",
   "version": "2.0.0",
   "private": false,
-  "homepage":"https://horsebetting.netlify.app/",
+  "homepage":"https://horsebetting.netlify.app",
   "scripts": {
     "dev": "next",
     "build": "next build",
